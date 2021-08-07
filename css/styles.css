@@ -1,0 +1,163 @@
+.banner-image {
+  background-image: url("https://images.unsplash.com/photo-1513104890138-7c749659a591?ixlib=rb-1.2.1&w=1000&q=80");
+  background-size: cover;
+}
+
+.navbar-brand{
+  font-family: 'Ubuntu';
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+
+.nav-link {
+  padding: 0 18px;
+  font-size: 1.2rem;
+  font-family: 'Montserrat-light';
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: 500;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+h3 {
+
+}
+
+h4{
+  font-family: 'Merriweather', serif;
+  font-size: 160%;
+}
+
+hr {
+  border-style: solid none none;
+  width: 70%;
+  border-color: #EAF6F6;
+  margin: 10px auto;
+}
+
+.about-text {
+  font-family: 'Merriweather', serif;
+  font-size: 160%;
+}
+
+.Know-us {
+  text-align: center;
+  padding-top: 25px;
+}
+
+.About-img-container {
+  padding-top: 15px;
+}
+
+.About-img {
+  width:500px;
+  height:550px;
+}
+
+.Specials {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.Menu-title {
+  text-align: center;
+  padding-top: 25px;
+}
+
+.pizza {
+  height: 200px;
+  width: 325px;
+  object-fit: cover;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.responsive-image {
+  background-size: cover;
+  margin-bottom: 10px;
+  text-align: center;
+  font-family: serif;
+  font-family: 'Merriweather', serif;
+}
+
+.testimonial-title {
+  text-align: center;
+  background-image: url("https://3.bp.blogspot.com/-tJU0LDSKMIE/UtlWV9EwhBI/AAAAAAAAF3Y/WTNhbcVjZeI/s1600/orange-web-background.jpg");
+  background-size: cover;
+  color: #fff;
+}
+
+.testimonial-text {
+  font-size: 25px;
+  font-family: 'Ubuntu';
+  font-style: italic;
+  font-weight: 100;
+  color: #fff;
+}
+
+.people {
+  text-align: center;
+  color: #fff;
+}
+
+.people-name {
+  color: black;
+}
+
+.testimonial-image {
+  width: 15%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.bottom-container {
+  background-color: #fff;
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+
+.copyright {
+  color: #EAF6F6;
+}
+
+.fa {
+  color: #FFB740;
+
+}
+.payment {
+  padding: 2% 5%;
+  background-color: #FFB740;
+  color: #fff;
+}
+
+.payment-box {
+  padding: 1%;
+}
+
+.payment-icon {
+  float: left;
+  padding-right: 15px;
+}
+.social {
+  text-align: center;
+  padding: 3% 5%;
+  background-color: #000000;
+  position: relative;
+
+}
+
+.social-icon {
+  display: inline-block;
+}
